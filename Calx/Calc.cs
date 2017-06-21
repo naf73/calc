@@ -29,10 +29,18 @@ namespace Calx
             }
         }
 
-        private void btnSquare_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
-        
-        if(!String.IsNullOrEmpty( input1Text.Text))ouputText.Text = (Convert.ToDouble(input1Text.Text) * Convert.ToDouble(input1Text.Text)).ToString();
+            int inp1 = 0;
+            int inp2 = 0;
+            if (int.TryParse(input1Text.Text, out inp1) && (int.TryParse(input2Text.Text, out inp2)))
+            {
+                ouputText.Text = (inp1 / inp2).ToString();
+            }
+            else
+            {
+                ouputText.Text = "Ошибка. Введите целочисленные числа.";
+            }
         }
     }
 }
