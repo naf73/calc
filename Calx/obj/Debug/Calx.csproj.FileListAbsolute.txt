@@ -16,3 +16,12 @@ C:\Users\Рамиль\Source\Repos\calc\Calx\obj\Debug\Calx.csprojResolveAssembl
 C:\Users\Рамиль\Source\Repos\calc\Calx\obj\Debug\Calx.Calc.resources
 C:\Users\Рамиль\Source\Repos\calc\Calx\obj\Debug\Calx.Properties.Resources.resources
 C:\Users\Рамиль\Source\Repos\calc\Calx\obj\Debug\Calx.csproj.GenerateResource.Cache
+C:\Users\naf\Documents\GitHub\calc\Calx\bin\Debug\Calx.exe.config
+C:\Users\naf\Documents\GitHub\calc\Calx\bin\Debug\Calx.exe
+C:\Users\naf\Documents\GitHub\calc\Calx\bin\Debug\Calx.pdb
+C:\Users\naf\Documents\GitHub\calc\Calx\obj\Debug\Calx.csprojResolveAssemblyReference.cache
+C:\Users\naf\Documents\GitHub\calc\Calx\obj\Debug\Calx.Calc.resources
+C:\Users\naf\Documents\GitHub\calc\Calx\obj\Debug\Calx.Properties.Resources.resources
+C:\Users\naf\Documents\GitHub\calc\Calx\obj\Debug\Calx.csproj.GenerateResource.Cache
+C:\Users\naf\Documents\GitHub\calc\Calx\obj\Debug\Calx.exe
+C:\Users\naf\Documents\GitHub\calc\Calx\obj\Debug\Calx.pdb

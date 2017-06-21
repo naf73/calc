@@ -29,6 +29,7 @@ namespace Calx
             }
         }
 
+
         private void button1_Click(object sender, EventArgs e)
         {
             int inp1 = 0;
@@ -41,6 +42,11 @@ namespace Calx
             {
                 ouputText.Text = "Ошибка. Введите целочисленные числа.";
             }
+        }
+
+        private void btnSquare_Click(object sender, EventArgs e)
+        {
+            if (!String.IsNullOrEmpty(input1Text.Text)) ouputText.Text = (Convert.ToDouble(input1Text.Text) * Convert.ToDouble(input1Text.Text)).ToString();
         }
     }
 }
