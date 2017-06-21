@@ -1,0 +1,9 @@
+c:\users\dimitriy\documents\visual studio 2015\Projects\Calx\Calx\bin\Debug\Calx.exe.config
+c:\users\dimitriy\documents\visual studio 2015\Projects\Calx\Calx\obj\Debug\Calx.csprojResolveAssemblyReference.cache
+c:\users\dimitriy\documents\visual studio 2015\Projects\Calx\Calx\obj\Debug\Calx.Calc.resources
+c:\users\dimitriy\documents\visual studio 2015\Projects\Calx\Calx\obj\Debug\Calx.Properties.Resources.resources
+c:\users\dimitriy\documents\visual studio 2015\Projects\Calx\Calx\obj\Debug\Calx.csproj.GenerateResource.Cache
+c:\users\dimitriy\documents\visual studio 2015\Projects\Calx\Calx\bin\Debug\Calx.exe
+c:\users\dimitriy\documents\visual studio 2015\Projects\Calx\Calx\bin\Debug\Calx.pdb
+c:\users\dimitriy\documents\visual studio 2015\Projects\Calx\Calx\obj\Debug\Calx.exe
+c:\users\dimitriy\documents\visual studio 2015\Projects\Calx\Calx\obj\Debug\Calx.pdb
